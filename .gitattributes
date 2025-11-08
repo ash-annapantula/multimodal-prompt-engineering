@@ -1,1 +1,1 @@
-*.ipynb filter=lfs diff=lfs merge=lfs -text
+Multimodal_Prompt_Engineering_with_Google_Gemini.ipynb filter=lfs diff=lfs merge=lfs -text
