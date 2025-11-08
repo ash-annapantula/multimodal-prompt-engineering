@@ -14,13 +14,10 @@ It evaluates both models on chart analysis, image understanding, and text-image 
 multimodal-prompt-engineering/
 │
 ├── notebooks/
+|   ├── Multimodal_Prompt_Engineering_light.ipynb # Reduced sized version of the file right below for viewing
 │   ├── Multimodal_Prompt_Engineering_with_Google_Gemini.ipynb
 │   └── Multimodal_Prompt_Engineering_with_OpenAI_GPT_4o.ipynb
 │
-├── data/                  # sample images and charts
-├── results/               # model outputs and comparison tables
-├── reports/               # summary findings and visuals
-└── requirements.txt
 ```
 ---
 
